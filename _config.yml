@@ -1,4 +1,4 @@
-title:            Blog Title
+title:            Aviva's Blog
 description:      Describe your website here.
 disqus_shortname: neohpstrtheme # put your disqus here
 reading_time:     true # if true, shows the estimated reading time for a post
@@ -16,49 +16,23 @@ logo:             images/logo.png # logo visible in the topbar
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: '/theme-setup/'
-  - title: 'Tags'
-    url: '/tags'
-  - title: 'Categories'
-    url: '/categories'
-    type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+  - title: 'Projects'
+    url: '/projects/'
+  - title: 'All Posts'
+    url: '/posts/'
+  - title: 'About'
+    url: '/about/'
+
 
 # Owner/author information
 owner:
-  name:           Your name
+  name:           Aviva Buller
   site:           http://aronbordin.com
   avatar:         images/avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
-  facebook:
-  github: aron-bordin
-  stackexchange:
-  linkedin:
-  instagram:
-  flickr:
-  tumblr:
-  # google plus id, include the '+', eg +AronBordin
-  google_plus:    +yourid
 
-social:
-  - title: "github"
-    url: "https://github.com/aron-bordin"
-  - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
 # Background image to be tiled on all pages
 background:
 
